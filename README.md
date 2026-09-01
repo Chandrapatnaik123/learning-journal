@@ -1,4 +1,5 @@
-#AI Engineering Journal
+#Chandrahaas's AI Engineering  Journal
+
 
 Daily notes while preparing for my Junior AI Engineer role.
 
