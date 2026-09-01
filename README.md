@@ -1,4 +1,4 @@
-# Learning Journal
+#AI Engineering Journal
 
 Daily notes while preparing for my Junior AI Engineer role.
 
